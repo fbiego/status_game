@@ -11,8 +11,7 @@ The video can be posted to platforms such as whatsapp status to challenge your v
 Since the video is fast moving the viewer has to stop the video at right time to view the digits
 The viewer has to recharge using the digits before any other viewer to get the airtime.
 
-
-This sketch requires [VideoExport library](https://github.com/hamoid/video_export_processing) and the library requires FFMPEG to be installed on your system.
+This sketch requires [VideoExport library](https://github.com/hamoid/video_export_processing) and the library requires FFmpeg to be installed on your system.
 
 Change the `String credit` to match your airtime recharge digits and `boolean exp` to `true` to export your video
 
